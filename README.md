@@ -12,3 +12,8 @@ YMMV _check_ before use, proceed with caution etc etc as I may have messed/misse
 **Thanks**
 
 To [Till](https://github.com/harbaum/) for patiently answering my tech questions!
+
+
+**updates**
+
+05JUN24 board size reduced to 73.6mm x 54.5mm
