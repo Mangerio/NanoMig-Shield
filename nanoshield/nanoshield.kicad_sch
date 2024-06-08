@@ -1065,6 +1065,7 @@
   (no_connect (at 180.34 83.82) (uuid cf9252df-51ed-432a-9008-0178ad1c3068))
   (no_connect (at 81.28 66.04) (uuid d8980a76-1a21-4e62-b912-f85182b213f4))
   (no_connect (at 121.92 40.64) (uuid df5e789e-30f9-4dad-a6a6-5a4f9242f4b3))
+  (no_connect (at 48.26 40.64) (uuid e51c197d-c384-4d0f-87d4-124000babaaa))
   (no_connect (at 81.28 40.64) (uuid ea208e3a-d6ec-470e-b94d-c0b8a804577c))
   (no_connect (at 48.26 27.94) (uuid eb5368d1-c7b9-4e96-b57a-bdacb1475014))
   (no_connect (at 81.28 45.72) (uuid ebbb862e-ec83-4347-b0c9-d132a4794e85))
@@ -1849,31 +1850,6 @@
       (project "nanoshield"
         (path "/279bcb58-e73f-4762-9835-ca58a1be9acb"
           (reference "J3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+5V") (at 48.26 40.64 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid f023d0ea-05c9-4fee-b34e-c9c11d6d3101)
-    (property "Reference" "#PWR07" (at 44.45 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 52.07 40.64 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 48.26 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 48.26 40.64 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6a4f8301-8f4b-4fda-94dc-46fd29968071))
-    (instances
-      (project "nanoshield"
-        (path "/279bcb58-e73f-4762-9835-ca58a1be9acb"
-          (reference "#PWR07") (unit 1)
         )
       )
     )
