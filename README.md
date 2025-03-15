@@ -1,6 +1,6 @@
 **what is this...**
 
-Shield/dock for [MiSTeryNano](https://github.com/harbaum/MiSTeryNano) project (nano tang 20k + M0S dock)  
+Shield/dock for [NanoMig](https://github.com/harbaum/NanoMig) project (nano tang 20k + M0S dock)  
 Ports on this is 2x **Joystick** only (no level shifters for mice)  
 Resistors R1/R2 may need different values
 100% THT so low cost to produce  
